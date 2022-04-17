@@ -1,56 +1,64 @@
 # list-of-things-that-are-evil
-I was bored. (fork bo chce dać panukozie pull requesta)
+wow this is very old
 
-
-# Things that are good
-- Smartphones
-- NodeJS
-- MongoDB
-- Chrome
-- The *cloud* (aka. computers of other people)
-- ngnix
-- Vue (it generates invalid HTML)
-- Closing the \<img\> tag
-- Closing the \<link\> tag
-- Closing the \<meta\> tag
-- TikTok and other platforms of that kind
-- Polish
-- Poland
-- Arch Linux
-- Google
-- Dark Theme
-- Dvorak
-- Date formats that are not ISO 8601
-- Family
-- Excerise
-- YAML
-- Docker
-- NPM
-- Express.js
-- Moment.js
-- Sieciuchy
-- Instagram
-- Google Sites
-- Python
-- Rethinkdb
-- cement
-- c++
-- html5
 
 # Things that are evil
-- Firefox
-- Apache
+- MongoDB
+- Chrome
+- Opera
+- Opera GX
+- Russia
+- Poland
+- Polish Zloty
+- Arch Linux
+- Windows 11
+- Lineage OS
+- rpiOS on very slow RPI
+- GNOME eating RAM
+- snap-store (until it stops being too laggy)
+- nginx (until errors disappear)
+- Google
+- Dvorak
+- MS Family
+- NPM
+- apt-get (not apt btw)
+- Chromecast
+- Express.js
+- Moment.js
+- Any social media
+- Google Sites
+- CT8
+- c++
+- c
+- Java
+- Batch (this isn't even a programming language lmao)
+- making "viruses" in batch
+- MicroUSB
+- Bandit Power
 - Sliverlight
-- XML
-- 12 hour sytem
-- ISO 8601
-- English
-- 3DVIA Player
+- 12 hour sytem (not THAT bad)
 - Adobe Shockwave Player
 - Authorware
 - SWFObject
-- Browser plugins
-- Vanilla JS
 - pankoza
 - kukanq
-- b*ton
+- creper132
+- SoGreeno
+- Society
+- Discord
+- GitHub support
+- Niantic Wayfarer when they dont accept my waypoint
+- GPU Prices rising for no such reason
+- NVIDIA Quadro K4000 (actually, it isn't that bad)
+- Finding correct size for a PC case just to fit in a GPU
+- Ingress Prime (i mean for a good experience you need a literal RTX 3090)
+- No custom rom for your device
+- Any SSD below 128 GB
+- Unnecessary bloat
+- violence being the only answer
+- those mfs who say that "MIUI HAS TOO MANY BUGS!!!!!" when their custom rom has more bugs
+- my Mac Mini not letting to install any linux with DE
+- Overpriced games by Nintendo
+- when you forget to name the commit and you have to do everything over again
+- GitHub CLI exclusive only for linux
+- My entire class shipping other students
