@@ -62,3 +62,5 @@ wow this is very old
 - when you forget to name the commit and you have to do everything over again
 - GitHub CLI exclusive only for linux
 - My entire class shipping other students
+- Anyone trying to fit in LGAs to AM4 slot
+- Friend asking for a graphics card back, even if he had full consent of having it for yourself
