@@ -1,31 +1,37 @@
 # list-of-things-that-are-evil
 wow this is very old
 
+for your own good, dont read this
+
 
 # Things that are evil
-- MongoDB
 - Chrome
 - Opera
 - Opera GX
-- Russia
+- Russia's government 
 - Poland
 - Polish Zloty
 - Arch Linux
+- Ubuntu
 - Windows 11
 - Lineage OS
-- rpiOS on very slow RPI
-- GNOME eating RAM
+- Windows Phone
 - snap-store (until it stops being too laggy)
 - nginx (until errors disappear)
 - Google
-- Dvorak
+- Microsoft
 - MS Family
-- NPM
 - apt-get (not apt btw)
 - Chromecast
-- Express.js
-- Moment.js
-- Any social media
+- Google Analytics 
+- Twitter
+- Youtube Partnership
+- Twitch
+- Facebook
+- Messenger
+- WhatsApp
+- Discord
+- NFT
 - Google Sites
 - CT8
 - c++
@@ -33,17 +39,17 @@ wow this is very old
 - Java
 - Batch (this isn't even a programming language lmao)
 - making "viruses" in batch
+- Tiling WM
+- Aero
 - MicroUSB
 - Bandit Power
-- Sliverlight
 - 12 hour sytem (not THAT bad)
 - Adobe Shockwave Player
-- Authorware
-- SWFObject
 - pankoza
 - kukanq
 - creper132
 - SoGreeno
+- ni~~g~~per
 - Society
 - Discord
 - GitHub support
@@ -54,6 +60,7 @@ wow this is very old
 - Ingress Prime (i mean for a good experience you need a literal RTX 3090)
 - No custom rom for your device
 - Any SSD below 128 GB
+- HDD
 - Unnecessary bloat
 - violence being the only answer
 - those mfs who say that "MIUI HAS TOO MANY BUGS!!!!!" when their custom rom has more bugs
@@ -61,6 +68,8 @@ wow this is very old
 - Overpriced games by Nintendo
 - when you forget to name the commit and you have to do everything over again
 - GitHub CLI exclusive only for linux
-- My entire class shipping other students
+- My entire class shipping other students (mostly gay relationships)
 - Anyone trying to fit in LGAs to AM4 slot
 - Friend asking for a graphics card back, even if he had full consent of having it for yourself
+- Everyone who think that their distro is supierior
+- Pepole who ruin friendships because they didn't like friends religion
