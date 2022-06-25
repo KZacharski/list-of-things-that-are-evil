@@ -65,3 +65,4 @@ for your own good, dont read this
 - Elon Musk
 - Amazon
 - AWS
+- iCloud app-specific passwords
